@@ -1,3 +1,5 @@
+# DON'T USE OUTDATED -> USE ADMINPAD2 INSTEAD - 
+
 # Administrate Etherpads
 ===========
 
